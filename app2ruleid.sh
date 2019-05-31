@@ -1,5 +1,6 @@
 #!/bin/sh
 hello world
+111111111111
 file="/ac/etc/config/contchk/contchkprivate.inf"
 section="2987252144"
 item="RuleID"
