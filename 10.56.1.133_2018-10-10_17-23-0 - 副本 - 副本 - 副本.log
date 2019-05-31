@@ -1,0 +1,1316 @@
+/lua_scripts/enables/webmail_wo
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_cnr
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = bbs.cnr.cn
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = open.denglu.cc
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_renmin
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_newsmth
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_qlwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_gmail
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/mail_coremail
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/comment_baidu_news
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/ios_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_yun
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_wenku
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/webbbs_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webmailweibo_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/qzone_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/weiyun_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/comment_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webbbs_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/pengyou_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/nethd_cloudstorage_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webweibo_cnool
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/blog_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webbbs_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinanews
+
+
+0>3:[webbbs_chinanews:511] registerDiscuzHander info: register host = bbs.chinanews.com
+3:[webbbs_chinanews:511] registerDiscuzHander info: register host = comment.chinanews.com
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_fanfou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sina
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/iphone_weibo_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_digu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_ifeng
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_sanook
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_ttkb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibotong/webweibo_weibotong
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_people
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dek-d
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_china21
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_isso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_xinhua
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cyol
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibo_pp
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dazhihui
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_qihoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_soso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cqvip
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_wanfangdata
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_bing
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_xunlei
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_iask
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_verycd
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cnki
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_sogou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_youdao
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_tianwang
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_so360
+2:[luaport.c:128] loading /ac/module/act
+
+0>race/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_yisou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SE[BEGIN] 2018/10/10 17:23:23
+Sangfor-AC-12.0.11 ~ # /ac/module/actrace/app/ntrace_debugger 
+[Info][main.c:284] ntrace_io start in single mode, listen to cpuid: 0
+dummy check: 0
+dummy check: 0
+[Info][main.c:230] ntrace_io(0) listen new_trace(0)
+[Info][main.c:243] process 30566 bind to cpu 0 success!
+[Debug][main.c:261] pid=30566, cpuid is 0 sss
+Start in debug mode
+dummy check: 0
+dummy check: 0
+0>3:[dispatcher.c:1593] content-type is text/html
+3:[dispatcher.c:1593] content-type is text/webviewhtml
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libiconverter.so, with param: , use time: 0 ms
+
+
+0>3:[urltype2id.c:196] urltype2id_init ok
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/liburltype2id.so, with param: , use time: 36 ms
+
+
+0>2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libx2name.so, with param: , use time: 1 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdecoder.so, with param: , use time: 0 ms
+1:[journaling.c:139] trace debug enabed, journaling plugin will be disabled
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libjournaling.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdissector_datatype.so, with param: , use time: 0 ms
+
+
+0>3:[aclogger.cpp:111] app report interval is 1800
+3:[aclogger.cpp:112] app path: /ac/module/actrace/new_trace/lua_scripts/enables
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libaclogger.so, with param: /ac/module/actrace/new_trace/lua_scripts/enables, use time: 12 ms
+3:[ftp_parser.c:688] alivetime=300000
+2:[ftp_parser.c:705] unknowtype: 其他
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libftp_parser.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libweb_filter.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_get_parser.so, with param: , use time: 0 ms
+2:[http_post_parser.c:98] global_log_min_postsize=20
+2:[http_post_parser.c:99] global_log_max_postsize_db=2048
+2:[http_post_parser.c:100] global_log_max_bbs_db=6144
+2:[http_post_parser.c:101] global_log_max_mail_db=6144
+3:[actrace_file.c:1108] s_other_name=其他
+3:[actrace_file.c:1118] s_http_file_other=其他
+1:[urltype2id.c:68] apptype_2_id>in 
+
+0>is: 32|其他网页论坛[发帖回帖]
+2:[actrace_webbbs.c:1369] web_bbs=其他网页论坛[发帖回帖] 
+2:[actrace_webbbs.c:1370] s_bbs_serv_crc=3281598801  s_bbs_app_crc=32767
+2:[actrace_webbbs.c:340] bbs n_tpl = 10
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+2:[actrace_webbbs.c:406] http_post_bbs_tpl_init succeed 
+3:[actrace_webmail.c:406] s_mail_tpl_num = 6
+3:[actrace_webmail.c:1385] httppost_webmail_init ok !
+3:[common_fun.c:558] httppost_free_match_regx
+3:[actrace_webmail_xml.c:167] s_mailxml_tpl_num = 2
+3:[actrace_webmail_xml.c:855] httppost_webmail_xml_init ok !
+2:[http_post_parser.c:1104] http_post_parser init OK!
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_post_parser.so, with param: , use time: 1 ms
+d0:AcNetPolicyUse.cpp:350 	policy_count = 4
+3:[smtp_filter.cpp:209] policy index:0 disable mail filter
+3:[smtp_filter.cpp:209] policy index
+
+0>:1 disable mail filter
+3:[smtp_filter.cpp:197] policy[2] invalid
+3:[smtp_filter.cpp:197] policy[3] invalid
+2:[smtp_filter.cpp:949] smtp_filter_init ok 
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsmtp_filter.so, with param: , use time: 1 ms
+2:[session_limits.c:85] session_limits: soft limit: 9885
+2:[session_limits.c:91] session_limits: hard limit: 19770
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsession_limits.so, with param: -soft,*5,-hard,*10, use time: 0 ms
+
+
+0>3:[utilities.c:159] set gc timeout = 5000
+1:[urltype2id.c:42] urltype_2_id>in is: 6|其他
+3:[port_session_aux.c:252] other_urltype_id = 115489864
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dayoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_pramool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/comment_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webbbs_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/blog_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webmail_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_friendster
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_qiushibaike
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_mier
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbs_mala
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_kaidi
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_lowyat
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_k618
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/fanfou/webweibo_fanfou
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_autohome
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinaren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/comment_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webweibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webbbs_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/163_mail_succece.lua
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webmail_189
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_lofter
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_twitter
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_zdegame
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/attach_qianniu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/yahoo/webmail_yahoo
+virtualid/guomei_id
+2:[luaport.c:128] loading /ac/module/actrace
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/botao_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/kaixin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lutualid/renmin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/iaround_id
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/yibin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/mier_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/sinaapp_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webbbs_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webweibo_tianya
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_huanqiu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_rongshuxia
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cmwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_xici
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_scol
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_rayli
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_renren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_yibin
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_dfcfw
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_tom
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_19
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/post_logFilter/lua_scripts/enables/webmail_wo
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_cnr
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = bbs.cnr.cn
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = open.denglu.cc
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_renmin
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_newsmth
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_qlwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_gmail
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/mail_coremail
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/comment_baidu_news
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/ios_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_yun
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_wenku
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/webbbs_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webmailweibo_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/qzone_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/weiyun_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/comment_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webbbs_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/pengyou_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/nethd_cloudstorage_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webweibo_cnool
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/blog_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webbbs_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinanews
+
+
+0>3:[webbbs_chinanews:511] registerDiscuzHander info: register host = bbs.chinanews.com
+3:[webbbs_chinanews:511] registerDiscuzHander info: register host = comment.chinanews.com
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_fanfou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sina
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/iphone_weibo_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_digu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_ifeng
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_sanook
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_ttkb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibotong/webweibo_weibotong
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_people
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dek-d
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_china21
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_isso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_xinhua
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cyol
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibo_pp
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dazhihui
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_qihoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_soso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cqvip
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_wanfangdata
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_bing
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_xunlei
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_iask
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_verycd
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cnki
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_sogou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_youdao
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_tianwang
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_so360
+2:[luaport.c:128] loading /ac/module/act
+
+0>race/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_yisou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SE[BEGIN] 2018/10/10 17:23:23
+Sangfor-AC-12.0.11 ~ # /ac/module/actrace/app/ntrace_debugger 
+[Info][main.c:284] ntrace_io start in single mode, listen to cpuid: 0
+dummy check: 0
+dummy check: 0
+[Info][main.c:230] ntrace_io(0) listen new_trace(0)
+[Info][main.c:243] process 30566 bind to cpu 0 success!
+[Debug][main.c:261] pid=30566, cpuid is 0 sss
+Start in debug mode
+dummy check: 0
+dummy check: 0
+0>3:[dispatcher.c:1593] content-type is text/html
+3:[dispatcher.c:1593] content-type is text/webviewhtml
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libiconverter.so, with param: , use time: 0 ms
+
+
+0>3:[urltype2id.c:196] urltype2id_init ok
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/liburltype2id.so, with param: , use time: 36 ms
+
+
+0>2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libx2name.so, with param: , use time: 1 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdecoder.so, with param: , use time: 0 ms
+1:[journaling.c:139] trace debug enabed, journaling plugin will be disabled
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libjournaling.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdissector_datatype.so, with param: , use time: 0 ms
+
+
+0>3:[aclogger.cpp:111] app report interval is 1800
+3:[aclogger.cpp:112] app path: /ac/module/actrace/new_trace/lua_scripts/enables
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libaclogger.so, with param: /ac/module/actrace/new_trace/lua_scripts/enables, use time: 12 ms
+3:[ftp_parser.c:688] alivetime=300000
+2:[ftp_parser.c:705] unknowtype: 其他
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libftp_parser.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libweb_filter.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_get_parser.so, with param: , use time: 0 ms
+2:[http_post_parser.c:98] global_log_min_postsize=20
+2:[http_post_parser.c:99] global_log_max_postsize_db=2048
+2:[http_post_parser.c:100] global_log_max_bbs_db=6144
+2:[http_post_parser.c:101] global_log_max_mail_db=6144
+3:[actrace_file.c:1108] s_other_name=其他
+3:[actrace_file.c:1118] s_http_file_other=其他
+1:[urltype2id.c:68] apptype_2_id>in 
+
+0>is: 32|其他网页论坛[发帖回帖]
+2:[actrace_webbbs.c:1369] web_bbs=其他网页论坛[发帖回帖] 
+2:[actrace_webbbs.c:1370] s_bbs_serv_crc=3281598801  s_bbs_app_crc=32767
+2:[actrace_webbbs.c:340] bbs n_tpl = 10
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+2:[actrace_webbbs.c:406] http_post_bbs_tpl_init succeed 
+3:[actrace_webmail.c:406] s_mail_tpl_num = 6
+3:[actrace_webmail.c:1385] httppost_webmail_init ok !
+3:[common_fun.c:558] httppost_free_match_regx
+3:[actrace_webmail_xml.c:167] s_mailxml_tpl_num = 2
+3:[actrace_webmail_xml.c:855] httppost_webmail_xml_init ok !
+2:[http_post_parser.c:1104] http_post_parser init OK!
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_post_parser.so, with param: , use time: 1 ms
+d0:AcNetPolicyUse.cpp:350 	policy_count = 4
+3:[smtp_filter.cpp:209] policy index:0 disable mail filter
+3:[smtp_filter.cpp:209] policy index
+
+0>:1 disable mail filter
+3:[smtp_filter.cpp:197] policy[2] invalid
+3:[smtp_filter.cpp:197] policy[3] invalid
+2:[smtp_filter.cpp:949] smtp_filter_init ok 
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsmtp_filter.so, with param: , use time: 1 ms
+2:[session_limits.c:85] session_limits: soft limit: 9885
+2:[session_limits.c:91] session_limits: hard limit: 19770
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsession_limits.so, with param: -soft,*5,-hard,*10, use time: 0 ms
+
+
+0>3:[utilities.c:159] set gc timeout = 5000
+1:[urltype2id.c:42] urltype_2_id>in is: 6|其他
+3:[port_session_aux.c:252] other_urltype_id = 115489864
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dayoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_pramool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/comment_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webbbs_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/blog_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webmail_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_friendster
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_qiushibaike
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_mier
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbs_mala
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_kaidi
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_lowyat
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_k618
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/fanfou/webweibo_fanfou
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_autohome
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinaren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/comment_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webweibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webbbs_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/163_mail_succece.lua
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webmail_189
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_lofter
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_twitter
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_zdegame
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/attach_qianniu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/yahoo/webmail_yahoo
+virtualid/guomei_id
+2:[luaport.c:128] loading /ac/module/actrace
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/botao_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/kaixin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lutualid/renmin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/iaround_id
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/yibin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/mier_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/sinaapp_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webbbs_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webweibo_tianya
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_huanqiu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_rongshuxia
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cmwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_xici
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_scol
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_rayli
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_renren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_yibin
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_dfcfw
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_tom
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_19
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/post_logFilter/lua_scripts/enables/webmail_wo
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_cnr
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = bbs.cnr.cn
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = open.denglu.cc
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_renmin
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_newsmth
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_qlwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_gmail
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/mail_coremail
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/comment_baidu_news
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/ios_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_yun
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_wenku
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/webbbs_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webmailweibo_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/qzone_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/weiyun_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/comment_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webbbs_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/pengyou_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/nethd_cloudstorage_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webweibo_cnool
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/blog_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webbbs_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinanews
+
+
+0>3:[webbbs_chinanews:511] registerDiscuzHander info: register host = bbs.chinanews.com
+3:[webbbs_chinanews:511] registerDiscuzHander info: register host = comment.chinanews.com
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_fanfou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sina
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/iphone_weibo_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_digu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_ifeng
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_sanook
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_ttkb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibotong/webweibo_weibotong
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_people
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dek-d
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_china21
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_isso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_xinhua
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cyol
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibo_pp
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dazhihui
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_qihoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_soso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cqvip
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_wanfangdata
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_bing
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_xunlei
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_iask
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_verycd
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cnki
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_sogou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_youdao
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_tianwang
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_so360
+2:[luaport.c:128] loading /ac/module/act
+
+0>race/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_yisou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SE[BEGIN] 2018/10/10 17:23:23
+Sangfor-AC-12.0.11 ~ # /ac/module/actrace/app/ntrace_debugger 
+[Info][main.c:284] ntrace_io start in single mode, listen to cpuid: 0
+dummy check: 0
+dummy check: 0
+[Info][main.c:230] ntrace_io(0) listen new_trace(0)
+[Info][main.c:243] process 30566 bind to cpu 0 success!
+[Debug][main.c:261] pid=30566, cpuid is 0 sss
+Start in debug mode
+dummy check: 0
+dummy check: 0
+0>3:[dispatcher.c:1593] content-type is text/html
+3:[dispatcher.c:1593] content-type is text/webviewhtml
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libiconverter.so, with param: , use time: 0 ms
+
+
+0>3:[urltype2id.c:196] urltype2id_init ok
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/liburltype2id.so, with param: , use time: 36 ms
+
+
+0>2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libx2name.so, with param: , use time: 1 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdecoder.so, with param: , use time: 0 ms
+1:[journaling.c:139] trace debug enabed, journaling plugin will be disabled
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libjournaling.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdissector_datatype.so, with param: , use time: 0 ms
+
+
+0>3:[aclogger.cpp:111] app report interval is 1800
+3:[aclogger.cpp:112] app path: /ac/module/actrace/new_trace/lua_scripts/enables
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libaclogger.so, with param: /ac/module/actrace/new_trace/lua_scripts/enables, use time: 12 ms
+3:[ftp_parser.c:688] alivetime=300000
+2:[ftp_parser.c:705] unknowtype: 其他
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libftp_parser.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libweb_filter.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_get_parser.so, with param: , use time: 0 ms
+2:[http_post_parser.c:98] global_log_min_postsize=20
+2:[http_post_parser.c:99] global_log_max_postsize_db=2048
+2:[http_post_parser.c:100] global_log_max_bbs_db=6144
+2:[http_post_parser.c:101] global_log_max_mail_db=6144
+3:[actrace_file.c:1108] s_other_name=其他
+3:[actrace_file.c:1118] s_http_file_other=其他
+1:[urltype2id.c:68] apptype_2_id>in 
+
+0>is: 32|其他网页论坛[发帖回帖]
+2:[actrace_webbbs.c:1369] web_bbs=其他网页论坛[发帖回帖] 
+2:[actrace_webbbs.c:1370] s_bbs_serv_crc=3281598801  s_bbs_app_crc=32767
+2:[actrace_webbbs.c:340] bbs n_tpl = 10
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+2:[actrace_webbbs.c:406] http_post_bbs_tpl_init succeed 
+3:[actrace_webmail.c:406] s_mail_tpl_num = 6
+3:[actrace_webmail.c:1385] httppost_webmail_init ok !
+3:[common_fun.c:558] httppost_free_match_regx
+3:[actrace_webmail_xml.c:167] s_mailxml_tpl_num = 2
+3:[actrace_webmail_xml.c:855] httppost_webmail_xml_init ok !
+2:[http_post_parser.c:1104] http_post_parser init OK!
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_post_parser.so, with param: , use time: 1 ms
+d0:AcNetPolicyUse.cpp:350 	policy_count = 4
+3:[smtp_filter.cpp:209] policy index:0 disable mail filter
+3:[smtp_filter.cpp:209] policy index
+
+0>:1 disable mail filter
+3:[smtp_filter.cpp:197] policy[2] invalid
+3:[smtp_filter.cpp:197] policy[3] invalid
+2:[smtp_filter.cpp:949] smtp_filter_init ok 
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsmtp_filter.so, with param: , use time: 1 ms
+2:[session_limits.c:85] session_limits: soft limit: 9885
+2:[session_limits.c:91] session_limits: hard limit: 19770
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsession_limits.so, with param: -soft,*5,-hard,*10, use time: 0 ms
+
+
+0>3:[utilities.c:159] set gc timeout = 5000
+1:[urltype2id.c:42] urltype_2_id>in is: 6|其他
+3:[port_session_aux.c:252] other_urltype_id = 115489864
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dayoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_pramool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/comment_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webbbs_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/blog_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webmail_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_friendster
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_qiushibaike
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_mier
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbs_mala
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_kaidi
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_lowyat
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_k618
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/fanfou/webweibo_fanfou
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_autohome
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinaren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/comment_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webweibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webbbs_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/163_mail_succece.lua
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webmail_189
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_lofter
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_twitter
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_zdegame
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/attach_qianniu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/yahoo/webmail_yahoo
+virtualid/guomei_id
+2:[luaport.c:128] loading /ac/module/actrace
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/botao_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/kaixin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lutualid/renmin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/iaround_id
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/yibin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/mier_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/sinaapp_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webbbs_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webweibo_tianya
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_huanqiu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_rongshuxia
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cmwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_xici
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_scol
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_rayli
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_renren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_yibin
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_dfcfw
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_tom
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_19
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/post_logFilter/lua_scripts/enables/webmail_wo
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_cnr
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = bbs.cnr.cn
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = open.denglu.cc
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_renmin
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_newsmth
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_qlwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_gmail
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/mail_coremail
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/comment_baidu_news
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/ios_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_yun
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_wenku
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/webbbs_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webmailweibo_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/qzone_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/weiyun_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/comment_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webbbs_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/pengyou_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/nethd_cloudstorage_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webweibo_cnool
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/blog_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webbbs_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinanews
+
+
+0>3:[webbbs_chinanews:511] registerDiscuzHander info: register host = bbs.chinanews.com
+3:[webbbs_chinanews:511] registerDiscuzHander info: register host = comment.chinanews.com
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_fanfou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sina
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/iphone_weibo_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_digu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_ifeng
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_sanook
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_ttkb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibotong/webweibo_weibotong
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_people
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dek-d
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_china21
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_isso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_xinhua
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cyol
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibo_pp
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dazhihui
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_qihoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_soso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cqvip
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_wanfangdata
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_bing
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_xunlei
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_iask
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_verycd
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cnki
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_sogou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_youdao
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_tianwang
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_so360
+2:[luaport.c:128] loading /ac/module/act
+
+0>race/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_yisou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SE[BEGIN] 2018/10/10 17:23:23
+Sangfor-AC-12.0.11 ~ # /ac/module/actrace/app/ntrace_debugger 
+[Info][main.c:284] ntrace_io start in single mode, listen to cpuid: 0
+dummy check: 0
+dummy check: 0
+[Info][main.c:230] ntrace_io(0) listen new_trace(0)
+[Info][main.c:243] process 30566 bind to cpu 0 success!
+[Debug][main.c:261] pid=30566, cpuid is 0 sss
+Start in debug mode
+dummy check: 0
+dummy check: 0
+0>3:[dispatcher.c:1593] content-type is text/html
+3:[dispatcher.c:1593] content-type is text/webviewhtml
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libiconverter.so, with param: , use time: 0 ms
+
+
+0>3:[urltype2id.c:196] urltype2id_init ok
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/liburltype2id.so, with param: , use time: 36 ms
+
+
+0>2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libx2name.so, with param: , use time: 1 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdecoder.so, with param: , use time: 0 ms
+1:[journaling.c:139] trace debug enabed, journaling plugin will be disabled
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libjournaling.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdissector_datatype.so, with param: , use time: 0 ms
+
+
+0>3:[aclogger.cpp:111] app report interval is 1800
+3:[aclogger.cpp:112] app path: /ac/module/actrace/new_trace/lua_scripts/enables
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libaclogger.so, with param: /ac/module/actrace/new_trace/lua_scripts/enables, use time: 12 ms
+3:[ftp_parser.c:688] alivetime=300000
+2:[ftp_parser.c:705] unknowtype: 其他
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libftp_parser.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libweb_filter.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_get_parser.so, with param: , use time: 0 ms
+2:[http_post_parser.c:98] global_log_min_postsize=20
+2:[http_post_parser.c:99] global_log_max_postsize_db=2048
+2:[http_post_parser.c:100] global_log_max_bbs_db=6144
+2:[http_post_parser.c:101] global_log_max_mail_db=6144
+3:[actrace_file.c:1108] s_other_name=其他
+3:[actrace_file.c:1118] s_http_file_other=其他
+1:[urltype2id.c:68] apptype_2_id>in 
+
+0>is: 32|其他网页论坛[发帖回帖]
+2:[actrace_webbbs.c:1369] web_bbs=其他网页论坛[发帖回帖] 
+2:[actrace_webbbs.c:1370] s_bbs_serv_crc=3281598801  s_bbs_app_crc=32767
+2:[actrace_webbbs.c:340] bbs n_tpl = 10
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+2:[actrace_webbbs.c:406] http_post_bbs_tpl_init succeed 
+3:[actrace_webmail.c:406] s_mail_tpl_num = 6
+3:[actrace_webmail.c:1385] httppost_webmail_init ok !
+3:[common_fun.c:558] httppost_free_match_regx
+3:[actrace_webmail_xml.c:167] s_mailxml_tpl_num = 2
+3:[actrace_webmail_xml.c:855] httppost_webmail_xml_init ok !
+2:[http_post_parser.c:1104] http_post_parser init OK!
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_post_parser.so, with param: , use time: 1 ms
+d0:AcNetPolicyUse.cpp:350 	policy_count = 4
+3:[smtp_filter.cpp:209] policy index:0 disable mail filter
+3:[smtp_filter.cpp:209] policy index
+
+0>:1 disable mail filter
+3:[smtp_filter.cpp:197] policy[2] invalid
+3:[smtp_filter.cpp:197] policy[3] invalid
+2:[smtp_filter.cpp:949] smtp_filter_init ok 
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsmtp_filter.so, with param: , use time: 1 ms
+2:[session_limits.c:85] session_limits: soft limit: 9885
+2:[session_limits.c:91] session_limits: hard limit: 19770
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsession_limits.so, with param: -soft,*5,-hard,*10, use time: 0 ms
+
+
+0>3:[utilities.c:159] set gc timeout = 5000
+1:[urltype2id.c:42] urltype_2_id>in is: 6|其他
+3:[port_session_aux.c:252] other_urltype_id = 115489864
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dayoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_pramool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/comment_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webbbs_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/blog_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webmail_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_friendster
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_qiushibaike
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_mier
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbs_mala
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_kaidi
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_lowyat
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_k618
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/fanfou/webweibo_fanfou
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_autohome
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinaren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/comment_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webweibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webbbs_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/163_mail_succece.lua
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webmail_189
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_lofter
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_twitter
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_zdegame
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/attach_qianniu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/yahoo/webmail_yahoo
+virtualid/guomei_id
+2:[luaport.c:128] loading /ac/module/actrace
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/botao_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/kaixin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lutualid/renmin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/iaround_id
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/yibin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/mier_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/sinaapp_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webbbs_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webweibo_tianya
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_huanqiu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_rongshuxia
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cmwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_xici
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_scol
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_rayli
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_renren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_yibin
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_dfcfw
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_tom
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_19
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/post_logFilter/lua_scripts/enables/webmail_wo
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_cnr
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = bbs.cnr.cn
+3:[webbbs_cnr:511] registerDiscuzHander info: register host = open.denglu.cc
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_renmin
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_newsmth
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_qlwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_gmail
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/mail_coremail
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/comment_baidu_news
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/ios_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_yun
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/baidu_wenku
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/baidu/webbbs_baidu_tieba
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webmailweibo_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/qzone_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/weiyun_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/comment_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/webbbs_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/pengyou_qq
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/qq/nethd_cloudstorage_qq
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webweibo_cnool
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/blog_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/cnool/webbbs_cnool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinanews
+
+
+0>3:[webbbs_chinanews:511] registerDiscuzHander info: register host = bbs.chinanews.com
+3:[webbbs_chinanews:511] registerDiscuzHander info: register host = comment.chinanews.com
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_fanfou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sina
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/iphone_weibo_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_digu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_ifeng
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/MOBILE_WEIBO/mobile_weibo_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_sanook
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_ttkb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibotong/webweibo_weibotong
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_people
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dek-d
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_china21
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_isso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_xinhua
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cyol
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/weibo_pp
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dazhihui
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_qihoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_soso
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cqvip
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_wanfangdata
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_bing
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_xunlei
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_iask
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_verycd
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_cnki
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_sogou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_youdao
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_tianwang
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_so360
+2:[luaport.c:128] loading /ac/module/act
+
+0>race/new_trace/lua_scripts/enables/SEARCH_ENGINE/search_engine_yisou
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/SE[BEGIN] 2018/10/10 17:23:23
+Sangfor-AC-12.0.11 ~ # /ac/module/actrace/app/ntrace_debugger 
+[Info][main.c:284] ntrace_io start in single mode, listen to cpuid: 0
+dummy check: 0
+dummy check: 0
+[Info][main.c:230] ntrace_io(0) listen new_trace(0)
+[Info][main.c:243] process 30566 bind to cpu 0 success!
+[Debug][main.c:261] pid=30566, cpuid is 0 sss
+Start in debug mode
+dummy check: 0
+dummy check: 0
+0>3:[dispatcher.c:1593] content-type is text/html
+3:[dispatcher.c:1593] content-type is text/webviewhtml
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libiconverter.so, with param: , use time: 0 ms
+
+
+0>3:[urltype2id.c:196] urltype2id_init ok
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/liburltype2id.so, with param: , use time: 36 ms
+
+
+0>2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libx2name.so, with param: , use time: 1 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdecoder.so, with param: , use time: 0 ms
+1:[journaling.c:139] trace debug enabed, journaling plugin will be disabled
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libjournaling.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libdissector_datatype.so, with param: , use time: 0 ms
+
+
+0>3:[aclogger.cpp:111] app report interval is 1800
+3:[aclogger.cpp:112] app path: /ac/module/actrace/new_trace/lua_scripts/enables
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libaclogger.so, with param: /ac/module/actrace/new_trace/lua_scripts/enables, use time: 12 ms
+3:[ftp_parser.c:688] alivetime=300000
+2:[ftp_parser.c:705] unknowtype: 其他
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libftp_parser.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libweb_filter.so, with param: , use time: 0 ms
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_get_parser.so, with param: , use time: 0 ms
+2:[http_post_parser.c:98] global_log_min_postsize=20
+2:[http_post_parser.c:99] global_log_max_postsize_db=2048
+2:[http_post_parser.c:100] global_log_max_bbs_db=6144
+2:[http_post_parser.c:101] global_log_max_mail_db=6144
+3:[actrace_file.c:1108] s_other_name=其他
+3:[actrace_file.c:1118] s_http_file_other=其他
+1:[urltype2id.c:68] apptype_2_id>in 
+
+0>is: 32|其他网页论坛[发帖回帖]
+2:[actrace_webbbs.c:1369] web_bbs=其他网页论坛[发帖回帖] 
+2:[actrace_webbbs.c:1370] s_bbs_serv_crc=3281598801  s_bbs_app_crc=32767
+2:[actrace_webbbs.c:340] bbs n_tpl = 10
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+3:[common_fun.c:558] httppost_free_match_regx
+2:[actrace_webbbs.c:406] http_post_bbs_tpl_init succeed 
+3:[actrace_webmail.c:406] s_mail_tpl_num = 6
+3:[actrace_webmail.c:1385] httppost_webmail_init ok !
+3:[common_fun.c:558] httppost_free_match_regx
+3:[actrace_webmail_xml.c:167] s_mailxml_tpl_num = 2
+3:[actrace_webmail_xml.c:855] httppost_webmail_xml_init ok !
+2:[http_post_parser.c:1104] http_post_parser init OK!
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libhttp_post_parser.so, with param: , use time: 1 ms
+d0:AcNetPolicyUse.cpp:350 	policy_count = 4
+3:[smtp_filter.cpp:209] policy index:0 disable mail filter
+3:[smtp_filter.cpp:209] policy index
+
+0>:1 disable mail filter
+3:[smtp_filter.cpp:197] policy[2] invalid
+3:[smtp_filter.cpp:197] policy[3] invalid
+2:[smtp_filter.cpp:949] smtp_filter_init ok 
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsmtp_filter.so, with param: , use time: 1 ms
+2:[session_limits.c:85] session_limits: soft limit: 9885
+2:[session_limits.c:91] session_limits: hard limit: 19770
+2:[main.c:164] Load plugin: /ac/module/actrace/new_trace/libsession_limits.so, with param: -soft,*5,-hard,*10, use time: 0 ms
+
+
+0>3:[utilities.c:159] set gc timeout = 5000
+1:[urltype2id.c:42] urltype_2_id>in is: 6|其他
+3:[port_session_aux.c:252] other_urltype_id = 115489864
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_dayoo
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_pramool
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/comment_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webbbs_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/blog_sohu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/sohu/webmail_sohu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_friendster
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_qiushibaike
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_mier
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbs_mala
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_kaidi
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_lowyat
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_k618
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/fanfou/webweibo_fanfou
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_autohome
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_chinaren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/comment_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webweibo_163
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webbbs_163
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/163_mail_succece.lua
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/webmail_189
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/163/blog_lofter
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_twitter
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_zdegame
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/attach_qianniu
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/yahoo/webmail_yahoo
+virtualid/guomei_id
+2:[luaport.c:128] loading /ac/module/actrace
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/botao_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/kaixin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lutualid/renmin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/iaround_id
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/yibin_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/mier_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/virtualid/sinaapp_id
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webbbs_tianya
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/tianya/webweibo_tianya
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_huanqiu
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_rongshuxia
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_cmwb
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_xici
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_scol
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webweibo_rayli
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_renren
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_yibin
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/comment_dfcfw
+
+
+0>2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webmail_tom
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/webbbs_19
+2:[luaport.c:128] loading /ac/module/actrace/new_trace/lua_scripts/enables/post_logFilter
