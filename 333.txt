@@ -1,0 +1,42 @@
+0:36:31 INFO  .\RstingDlg.cpp:39   Load lead file informations
+10:36:31 INFO  .\RstingDlg.cpp:39   Extract backup data of db and attachments from 7z volumes
+10:36:34 INFO  .\RstingDlg.cpp:39   Devolumizing completed
+10:36:34 INFO  .\RstingDlg.cpp:39   Open db data backup file (C:\Users\Administrator.WIN-DLT407744JM\Desktop\DataCenterSetup4.5.0_All.exe\data\20170513230006_maildata-backup.aclog_bak.db_data)
+10:36:34 INFO  .\RstingDlg.cpp:39   open database(127.0.0.1,811)
+10:36:34 INFO  .\RstingDlg.cpp:39   open database(USE maildata)
+10:36:34 INFO  .\RstingDlg.cpp:39   Resotre maildata.oprlog
+10:36:34 INFO  .\RstingDlg.cpp:39   Resotre maildata.username
+10:36:36 INFO  .\RstingDlg.cpp:39   Resotre maildata.groupname
+10:36:36 INFO  .\RstingDlg.cpp:39   Resotre maildata.groupuser
+10:36:37 INFO  .\RstingDlg.cpp:39   Resotre maildata.acgroupinfo
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.crc_name
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.acconfig
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.rightinfo
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.servappcrc
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.timeinfo
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.private_crc
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.channelinfo
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.channelname
+10:36:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.a20170512
+10:36:42 INFO  .\RstingDlg.cpp:39   Resotre maildata.m20170512
+10:36:46 INFO  .\RstingDlg.cpp:39   Resotre maildata.p20170512
+10:36:47 INFO  .\RstingDlg.cpp:39   Resotre maildata.o20170512
+10:36:47 INFO  .\RstingDlg.cpp:39   Resotre maildata.f20170512
+10:37:10 INFO  .\RstingDlg.cpp:39   Restore completed
+10:37:32 INFO  .\RstingDlg.cpp:39   Restore started
+10:37:32 INFO  .\RstingDlg.cpp:39   Load lead file informations
+10:37:32 INFO  .\RstingDlg.cpp:39   Extract backup data of db and attachments from 7z volumes
+10:37:36 INFO  .\RstingDlg.cpp:39   Devolumizing completed
+
+
+
+10:37:36 INFO  .\RstingDlg.cpp:39   Open db data backup file (C:\Users\Administrator.WIN-DLT407744JM\Desktop\DataCenterSetup4.5.0_All.exe\data\20170512230006_maildata-backup.aclog_bak.db_data)
+10:37:36 INFO  .\RstingDlg.cpp:39   open database(127.0.0.1,811)
+10:37:36 INFO  .\RstingDlg.cpp:39   open database(USE maildata)
+10:37:36 INFO  .\RstingDlg.cpp:39   Resotre maildata.oprlog
+10:37:36 INFO  .\RstingDlg.cpp:39   Resotre maildata.username
+10:37:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.groupname
+10:37:38 INFO  .\RstingDlg.cpp:39   Resotre maildata.groupuser
+10:37:39 INFO  .\RstingDlg.cpp:39   Resotre maildata.acgroupinfo
+10:37:39 INFO  .\RstingDlg.cpp:39   Resotre maildata.crc_name
+10:37:40 INFO  .\RstingDlg.cpp:39   Resotre maildata.acconfig
