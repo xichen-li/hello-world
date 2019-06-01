@@ -41,4 +41,4 @@
 10:37:39 INFO  .\RstingDlg.cpp:39   Resotre maildata.crc_name
 10:37:40 INFO  .\RstingDlg.cpp:39   Resotre maildata.acconfig
 hello world
-1111
+1111ssss
