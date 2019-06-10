@@ -1,0 +1,20 @@
+.baidu.com				无策略也不能直接访问
+resports.baidu.com				无策略也不能直接访问
+ss0.bdstatic.com				无策略也不能直接访问
+www.amap.com					OK
+webapi.amap.com					OK
+map.qq.com						OK
+s.map.qq.com					OK
+amap.com						OK
+gaode.com						OK
+gtimg.com						无策略也不能直接访问
+is.autonavi.com					无策略也不能直接访问
+w.cnzz.com						OK
+mmstat.com						OK（返回Not Found）
+log.mmstat.com					OK（返回空）
+shimo.im						OK（加载资源需要放通 assets.smcdn.cn）
+w.kunlunhuf.com					无策略也不能直接访问
+tc.cdntip.com					OK
+ljlive.cn						无策略也不能直接访问
+xuanyes.com						OK
+ssl.captcha.qq.com				无策略也不能

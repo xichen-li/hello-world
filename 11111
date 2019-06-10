@@ -1,0 +1,21 @@
+test
+ > /ac/var/dev/terminal_identify
+while :; do dmesg -c; sleep 1; done
+
+
+
+if string.find(content or "", mac, 1, true) ~= nil then
+	--local startAddr = string.find(content or "", mac, 1, true)
+	--local _, _, macLine = string.find(content or "", "([^\r\n]*)", startAddr)
+	--if string.find(content or "", mac .. " = " .. ctype, startAddr, true) == nil and
+		--#macLine == 21 then
+     > /ac/var/dev/terminal_identify
+while :; do dmesg -c; sleep 1; done
+
+
+
+if string.find(content or "", mac, 1, true) ~= nil then
+	--local startAddr = string.find(content or "", mac, 1, true)
+	--local _, _, macLine = string.find(content or "", "([^\r\n]*)", startAddr)
+	--if string.find(content or "", mac .. " = " .. ctype, startAddr, true) == nil and
+		--#macLine == 21 then
