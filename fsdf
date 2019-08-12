@@ -1,0 +1,18 @@
+[app_to_https_upload]
+count = 2
+
+[0]
+server_name = github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+crc_https_type = 网络存储
+crc_https_type_eng = Network storage
+crc_https_upload = GitHub上传
+crc_https_upload_eng = GitHub_Upload
+upload_size = 1
+
+[1]
+server_name = github.com
+crc_https_type = 网络存储
+crc_https_type_eng = Network storage
+crc_https_upload = GitHub上传
+crc_https_upload_eng = GitHub_Upload
+upload_size = 2048
